@@ -1,0 +1,13 @@
+Scenario: Students find difficulty in finding books
+Solution: We'll create an app that provides features like
+	a. Students can search for any book
+	b. Students can see if their books are available
+	c. Students can check the location of the book store
+	d. Students can contact for further information (contact details for book store)
+	e. Students can check the pricing of the book (from each vendor)
+	f. Students can even sell their old books
+Screens:
+a. Profile Screen
+b. Home Screen
+c. Details Screen
+d. Selling product Info Screen
